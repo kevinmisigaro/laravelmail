@@ -28,6 +28,6 @@ class RegistrationConfirmed extends Mailable
      */
     public function build()
     {
-        return $this->from('kunbata93@gmail.com')->markdown('registrationConfirm');
+        return $this->from('hi@thestudentcoach.net')->markdown('registrationConfirm');
     }
 }

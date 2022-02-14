@@ -1,8 +1,8 @@
 @component('mail::message')
-# Welcome to Haba
+# Welcome to Student Coach!
  
-Welcome home!
+Welcome Kevin to the student coach community! Connecting learning and development communities for the savvy student.
  
 Thanks,<br>
-{{ config('app.name') }}
+The Student Coach
 @endcomponent
